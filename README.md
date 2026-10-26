@@ -9,6 +9,6 @@ Config files for my GitHub profile.
 - ⚡ Fun fact: I am learning Swedish and German.
 
 <p align="center">
-  <img src="./duo_svenska.jpg" alt="Swedish learning" width="300">
-  <img src="./duo_deutsch.jpg" alt="German learning" width="300">
+  <img src="./duo_svenska.jpg" alt="Swedish learning" width="200">
+  <img src="./duo_deutsch.jpg" alt="German learning" width="200">
 </p>
